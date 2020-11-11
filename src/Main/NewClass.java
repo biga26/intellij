@@ -6,6 +6,7 @@ public class NewClass {
 
         System.out.println("IntellIJ");
         System.out.println("Hello");
+        System.out.println("WOooow");
 
 
     }
